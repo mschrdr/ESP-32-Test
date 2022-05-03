@@ -60,7 +60,6 @@ void changeBetweenLED(){
       stellung = false;
       Serial.println("Gruen");
     }
-    delay(1000);
 }
 
 void setup() {
